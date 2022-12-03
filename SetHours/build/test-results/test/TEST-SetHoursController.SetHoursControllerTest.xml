@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SetHoursController.SetHoursControllerTest" tests="18" skipped="0" failures="0" errors="0" timestamp="2022-12-02T02:52:36" hostname="LAPTOP-MRVL9AVB" time="0.046">
+  <properties/>
+  <testcase name="validateInput_End1()" classname="SetHoursController.SetHoursControllerTest" time="0.023"/>
+  <testcase name="validateInput_End2()" classname="SetHoursController.SetHoursControllerTest" time="0.001"/>
+  <testcase name="validateInput_End3()" classname="SetHoursController.SetHoursControllerTest" time="0.001"/>
+  <testcase name="validateInput_End4()" classname="SetHoursController.SetHoursControllerTest" time="0.001"/>
+  <testcase name="validateInput_Days1()" classname="SetHoursController.SetHoursControllerTest" time="0.001"/>
+  <testcase name="validateInput_Days2()" classname="SetHoursController.SetHoursControllerTest" time="0.0"/>
+  <testcase name="validateInput_Days3()" classname="SetHoursController.SetHoursControllerTest" time="0.0"/>
+  <testcase name="validateInput_Days4()" classname="SetHoursController.SetHoursControllerTest" time="0.0"/>
+  <testcase name="validateInput_Range1()" classname="SetHoursController.SetHoursControllerTest" time="0.0"/>
+  <testcase name="validateInput_Range2()" classname="SetHoursController.SetHoursControllerTest" time="0.0"/>
+  <testcase name="validateInput_Range3()" classname="SetHoursController.SetHoursControllerTest" time="0.001"/>
+  <testcase name="validateInput_ValidConstants()" classname="SetHoursController.SetHoursControllerTest" time="0.001"/>
+  <testcase name="validateInput_Start1()" classname="SetHoursController.SetHoursControllerTest" time="0.001"/>
+  <testcase name="validateInput_Start2()" classname="SetHoursController.SetHoursControllerTest" time="0.0"/>
+  <testcase name="validateInput_Start3()" classname="SetHoursController.SetHoursControllerTest" time="0.001"/>
+  <testcase name="validateInput_Start4()" classname="SetHoursController.SetHoursControllerTest" time="0.001"/>
+  <testcase name="setHours_T1()" classname="SetHoursController.SetHoursControllerTest" time="0.004"/>
+  <testcase name="setHours_T2()" classname="SetHoursController.SetHoursControllerTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
